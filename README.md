@@ -18,53 +18,54 @@ The repository may include:
 - Original code examples and small experiments
 - Self-created diagrams or structured outlines
 
-The repository **does not** contain official course materials.
+The repository **does not** contain official or proprietary course materials.
 
 ---
 
-## Intellectual Property Notice
+## Intellectual Property and Disclaimer
 
-All Coursera course content, including but not limited to lectures, slides, videos, transcripts, assignments, quizzes, datasets, and assessments, remains the **exclusive intellectual property of Coursera and the respective instructors or partner institutions**.
+**IMPORTANT NOTICE**
+
+This repository is **not affiliated with, endorsed by, or sponsored by Coursera** or any of its partner institutions.
+
+All Coursera course content—including but not limited to lectures, slides, videos, transcripts, assignments, quizzes, solutions, datasets, and assessments—remains the **exclusive intellectual property of Coursera and the respective instructors or institutions**.
 
 This repository:
 
-- Does **not** reproduce or redistribute proprietary course materials
-- Does **not** include verbatim copies of lectures or instructional resources
-- References Coursera courses strictly for educational and attribution purposes
+- Does **not** reproduce, redistribute, or host proprietary Coursera materials
+- Does **not** include verbatim lecture content or instructional resources
+- Contains only **personal notes and original interpretations** written by the repository owner
+- References Coursera courses strictly for **educational and attribution purposes**
 
-The notes in this repository are **unofficial** and should not be interpreted as replacements for, or representations of, the original courses.
+The content provided here is **unofficial** and should not be considered a substitute for enrolling in or completing the original Coursera courses.
 
 ---
 
 ## Data Privacy Statement
 
-This repository does **not** store or expose:
+This repository does **not** store, publish, or disclose:
 
-- Personal Coursera account information
-- Grades, certificates, or verification identifiers
-- Private forum discussions or peer submissions
-- Instructor or learner personal data
+- Coursera account credentials or personal identifiers
+- Grades, certificates, or certificate verification links
+- Private discussion posts or peer-reviewed submissions
+- Instructor, learner, or third-party personal data
 
-Any content shared here is intentionally curated to avoid privacy or policy violations.
+All content is intentionally curated to comply with data privacy principles and platform policies.
 
 ---
 
 ## Intended Use
 
-The materials in this repository are provided **solely for personal learning documentation and educational reference**. Users are encouraged to:
+The materials in this repository are provided **solely for personal learning documentation and educational reference**. Users are expected to:
 
-- Enroll in the original Coursera courses for complete and authoritative instruction
-- Respect intellectual property rights when using or referencing this repository
-- Avoid treating these notes as official teaching or certification materials
+- Respect intellectual property rights
+- Use the content responsibly and ethically
+- Refer to the original Coursera courses for complete and authoritative instruction
 
----
-
-## Disclaimer
-
-This repository is **not affiliated with, endorsed by, or sponsored by Coursera** or any of its partner institutions. All opinions, interpretations, and explanations are solely those of the repository owner.
+Any misuse or redistribution of proprietary course materials is **not supported or encouraged** by the repository owner.
 
 ---
 
 ## License
 
-Unless otherwise stated, the original content in this repository is shared for **educational and non-commercial purposes**. Please review the `LICENSE` file for additional details.
+Unless otherwise stated, all original content in this repository is shared for **educational and non-commercial purposes only**. Please refer to the `LICENSE` file for specific terms.
