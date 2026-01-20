@@ -76,3 +76,4 @@ results/
 # =========================
 certificates/
 verification/
+.DS_Store
